@@ -5,9 +5,30 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+
+ul {
+display: flex;
+
+text-decoration: none;
+list-style: none;
+}
+
+li{
+  margin: 0 20px;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+li a:hover {
+
+  color: rgb(4, 201, 236);
 }
