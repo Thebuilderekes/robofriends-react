@@ -1,0 +1,13 @@
+
+
+body {
+
+background: rgb(2,0,36);
+background: linear-gradient(143deg, rgba(2,0,36,1) 0%, rgba(9,79,121,1) 53%, rgba(0,212,255,1) 100%);
+
+}
+
+h1{
+    color: white;
+    text-transform: uppercase;
+}
